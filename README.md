@@ -1,0 +1,2 @@
+# SteamSDKtest
+SteamSDKやサーバ通信のテスト用プロジェクト
